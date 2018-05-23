@@ -3,10 +3,10 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Play a text adventure game.",
+          "summary": "Play the skinwalker game.",
           "examplePhrases": [
-            "Alexa open text adventure",
-            "Alexa ask text adventure where am I?"
+            "Alexa open the skinwalker",
+            "Alexa ask the skinwalker where am I?"
           ],
           "keywords": [
             "game",
